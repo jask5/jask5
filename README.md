@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jaskirat
-- 👀 I’m interested in coding and software development 
-- 🌱 I’m currently learning Data Science, Machine Learning, and software development  
-- 💞️ I’m looking to collaborate for software or machine learning projects 
+- 👋 Hi, I’m @Jaskirat
+- 👀 I’m interested in software development, machine learning, cloud computing, edge computing and deep learning.  
+- 🌱 I’m currently learning Data Science, Machine Learning, and software development.   
+- 💞️ I’m looking to collaborate for software or machine learning projects. 
 - 📫 How to reach me: 
 
 <!---
