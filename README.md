@@ -1,7 +1,6 @@
 I'm Jaskirat a 1st year Computer Science Graduate student at University of Washington. I'm a Tech Enthusiast, Software Developer and an Open Source Contributer. I love to explore and learn about new domains.
 
 
-👋 Hi, I’m @Jaskirat
 👀 I’m interested in Software Development, Machine Learning, Cloud Computing, Edge Computing and Deep Learning.  
 🌱 I’m currently learning Data Science, Machine Learning, and Software Development and applying the same to various projects.   
 💞️ I’m looking to collaborate for software and/or machine learning projects. 
