@@ -1,14 +1,7 @@
-I'm Jaskirat a Computer Science Graduate student at University of Washington. I'm a Tech Enthusiast, Software Developer and an Open Source Contributer. I love to explore and learn about new domains.
+Hi! I'm Jaskirat — a software developer passionate about building impactful, scalable applications that blend clean architecture with creative problem-solving. I graduated from the University of Washington, and I’m currently working as a Software Developer. I love exploring emerging tech and learning across domains.
 
+Interests - Software Development, Machine Learning & Deep Learning, Cloud & Edge Computing, Distributed Systems, Scalable Product Engineering
 
-👀 I’m interested in Software Development, Machine Learning, Cloud Computing, Edge Computing and Deep Learning.  
-🌱 I’m currently looking for Software Development, Data Science, Machine Learning full time opportunites .   
-💞️ I’m looking to collaborate for software and/or machine learning projects. 
-📫 How to reach me: Email   -> jask5@uw.edu 
-                   linkedIn -> https://www.linkedin.com/in/jaskirat-kaur-4065a2116/
-
-
-<!---
-jask5/jask5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Connect with me
+📧 Email: jask5@uw.edu
+💼 LinkedIn: https://www.linkedin.com/in/jaskiratkaur5/
